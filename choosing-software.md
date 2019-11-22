@@ -1,3 +1,4 @@
+# Choosing software
 - Has all the must have features.
 - Takes a better stance in favor of privacy
 - Is open source
