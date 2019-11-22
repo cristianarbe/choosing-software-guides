@@ -1,13 +1,13 @@
 # Choosing software
-- Has all the must have features.
-- Takes a better stance in favor of privacy
-- Is open source
-- It is stable
-- Plug and play
-- Least ammount documentation checking
-- Is built in
-- Has the least ammount of lines of code
-- Community is larger
-- Is libre
-- Availability of add-ons/packages
-- Is as upstream as possible
+1. Has all the must have features.
+1. Takes a better stance in favor of privacy
+1. Is open source
+1. It is stable
+1. Plug and play
+1. Least ammount documentation checking
+1. Is built in
+1. Has the least ammount of lines of code
+1. Community is larger
+1. Is libre
+1. Availability of add-ons/packages
+1. Is as upstream as possible
