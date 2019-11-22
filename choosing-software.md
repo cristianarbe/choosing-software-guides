@@ -1,5 +1,6 @@
 # Choosing software
 1. Has all the must have features.
+1. Is currently being maintained.
 1. Takes a better stance in favor of privacy
 1. Is open source
 1. It is stable
