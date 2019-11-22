@@ -1,0 +1,12 @@
+- Has all the must have features.
+- Takes a better stance in favor of privacy
+- Is open source
+- It is stable
+- Plug and play
+- Least ammount documentation checking
+- Is built in
+- Has the least ammount of lines of code
+- Community is larger
+- Is libre
+- Availability of add-ons/packages
+- Is as upstream as possible
