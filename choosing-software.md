@@ -6,7 +6,7 @@
 1. It is stable
 1. Plug and play
 1. Least ammount documentation checking
-1. Is built in
+1. Is built in and can't be removed
 1. Has the least ammount of lines of code
 1. Community is larger
 1. Is libre
