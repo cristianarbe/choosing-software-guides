@@ -8,6 +8,7 @@
 
 * Slitaz (43 MB)
 * Puppy Linux (354 MB)
+
 * Bodhi Linux (740.3 MB)
 * Lubuntu (1.6 GB)
 * LXLE (1.2GB)
