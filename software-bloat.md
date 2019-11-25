@@ -1,22 +1,51 @@
 ## Software by SLOC
 
-* Browser:  chromium (22504920 sloc)
+* Browser: Palemoon (14,110,181) > Otterbrowser (586,549) > Netsurf (283,852) > Epiphany (272,222) > Midori (162,504) > Qutebrowser (111,832) > Falkon (104,600) > Surf (1,710)
+	* Not considered: chromium (too big), firefox (too big), Min (needs node as a dependency (electron app; too big), qtweb (discontinued), arora (discontinued)
+* Mail clients: Claws Mail (643,439) > MailSpring (318,269) > Sylpheed (294,715) > Geary (184729) > Trojita (87963) > KMail (55,058) > Pantheon Mail (23,792)
+	* Too big: Thunderbird, Evolution
+* Init: systemd (508,585), openrc (15,325), runit (10,370), sysvinit (8,160)
 
-## Live iso's by size
+## Live iso's that can be installed by size
 
-* Slitaz (43 MB)
-* Puppy Linux (354 MB)
-* Q4OS Trinity (680 MB)
-* Bodhi Linux (740.3 MB)
-* Trisquel Mini (950 MB)
-* Devuan (1010 MB)
-* Bunsenlabs (1.1 GB)
-* LXLE (1.2GB)
-* Sparky Linux (1.3 GB)
-* Fedora LXDE (1.3 GB)
-* MX Linux (1.4 GB)
-* Pure OS (1.4 GB)
-* Solus OS (1.4 GB)
-* Lubuntu (1.6 GB)
-* Endeavour OS (1.6 GB)
+### Requirements
+
+* Has a live ISO
+* Can be installed natively (not frugal)
+* Straightforward installation
+
+### Distros
+
+#### Systemd
+
+* Bodhi Linux (740 MB) (systemd)
+* Q4OS Plasma (931 MB) (systemd)
+* Trisquel Mini (950 MB) (systemd)
+* Bunsenlabs (1.1 GB)s
+* LXLE, Sparky Linux, Fedora LXDE (1.2GB) (systemd)
+* Linux Lite, Pure OS, Solus OS (1.4 GB)
+* Peppermint OS, Elementary OS (1.5 GB)
+* Lubuntu, Endeavour OS (1.6 GB)
 * Debian XFCE (2.2 GB)
+
+#### Non-systemd
+
+* Artix (833 MB)
+* PCLinuxOS XFCE (840 MB)
+* Devuan (1010 MB)
+* AntiX (1.1 GB)
+* MX Linux (1.4 GB)
+* Artix Mate (1.8 GB)
+
+### Not considered
+
+* Slitaz (43 MB): its purpose is for it to be live
+* KolibriOS (65 MB): I thought it is Linux but is not
+* TinyCorePlus (106 MB): installation is frugal
+* Slax (264 MB): its main purpose is to be live
+* Porteus (294 MB): only frugal installation
+* Puppy Linux (354 MB): installation is not easy
+* Q4OS Trinity (680 MB): code is outdated and unsafe
+* VectorLinux (719 MB): dormant
+* Salix (1012 MB): dormant
+* GoboLinux (1 GB): dormant
