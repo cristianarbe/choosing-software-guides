@@ -20,11 +20,11 @@
 
 #### Systemd
 
-* Bodhi Linux (740 MB) (systemd)
-* Q4OS Plasma (931 MB) (systemd)
-* Trisquel Mini (950 MB) (systemd)
-* Bunsenlabs (1.1 GB)s
-* LXLE, Sparky Linux, Fedora LXDE (1.2GB) (systemd)
+* Bodhi Linux (740 MB)
+* Q4OS Plasma (931 MB)
+* Trisquel Mini (950 MB)
+* Bunsenlabs (1.1 GB)
+* LXLE, Sparky Linux, Fedora LXDE (1.2GB)
 * Linux Lite, Pure OS, Solus OS (1.4 GB)
 * Peppermint OS, Elementary OS (1.5 GB)
 * Lubuntu, Endeavour OS (1.6 GB)
