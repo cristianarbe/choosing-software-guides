@@ -5,7 +5,6 @@
 * Mail clients: Claws Mail (643,439) > Balsa (345,992) > MailSpring (318,269) > Sylpheed (294,715) > Geary (184,729) > Trojita (87963) > > KMail (55,058) > Pantheon Mail (23,792)
 	* Too big: Thunderbird, Evolution
 * Init: systemd (508,585), openrc (15,325), runit (10,370), sysvinit (8,160)
-* Desktop: Plasma (18,042)
 * Terminal: Mate terminal (323,968) Gnome terminal (177,026) > Tilix (81,525) > XFCE terminal (67,089) > Terminology (51,728) > Konsole (42,646) > LXQT terminal (35,965) > Tilda (20,633) > Roxterm (19,778) > LXterminal (18,121) > Sakura (5,946) > Cool retro term (3,336)
 * Floating window managers: fvwm (221,567) > icewm (127,855) > openbox (53,497) > fluxbox (513,348) > jwm (26,291) > mwm (1,343) > tinywm (115)
 
